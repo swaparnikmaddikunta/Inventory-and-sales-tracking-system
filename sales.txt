@@ -1,0 +1,3 @@
+Nani,nani@gmail.com,8341283609,1003,Candy,2,250,500,Sat May 10 15:40:00 2025
+chikki,chikki@gmail.com,9573475609,1005,Black-Forest,550,100,55000,Sat May 10 15:41:38 2025
+Nitin,nick@gmail.com,6549871230,1004,Choclate-cake,500,25,12500,Sat May 10 15:53:01 2025
